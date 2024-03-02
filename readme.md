@@ -5,6 +5,6 @@
 ## Скриншоты результатов
 ![](https://i.imgur.com/yGq3S0U.png)
 ## Ссылки на используемые материалы
-<https://clck.ru/38zhfx> - работа с классами
 [Классы python](https://docs.python.org/3/tutorial/classes.html)
+
 [Cинтаксис python](https://bookflow.ru/bazovyj-sintaksis-yazyka-python/)
